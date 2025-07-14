@@ -1,0 +1,1 @@
+# git-clone-https-github.com-seu-usuario-xadrez-casino.git-cd-xadrez-casino-npm-install-npm-run-dev
